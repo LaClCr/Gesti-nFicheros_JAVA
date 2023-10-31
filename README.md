@@ -1,6 +1,6 @@
 # APP GESTIÓN DE FICHEROS JAVA
 
-<img src="https://github.com/LaClCr/Gesti-nFicheros_JAVA/blob/cb78882b277e08719eab558208607fd2b7d3a47b/capturaJavaFitxers.png">
+<img src="https://github.com/LaClCr/Gesti-nFicheros_JAVA/blob/cb78882b277e08719eab558208607fd2b7d3a47b/capturaJavaFitxers.png" width='600' height='300'>
 
 ## Descripción
 
